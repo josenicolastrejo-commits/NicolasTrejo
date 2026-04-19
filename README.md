@@ -34,7 +34,7 @@ En proceso: Aplicación desarrollada durante mi proceso de formación que permit
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: https://github.com/josenicolastrejo-commits/NicolasTrejo
+- 💼 Perfil Github: https://github.com/josenicolastrejo-commits/NicolasTrejo
 - 📧 Correo: jose.nicolas.trejo@clases.edu.sv  
 
 ---
