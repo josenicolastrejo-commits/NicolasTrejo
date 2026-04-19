@@ -12,7 +12,8 @@ Soy docente de informática y desarrollador en formación, apasionado por la tec
 - 🎨 CSS  
 - ⚡ JavaScript  
 - 🐘 PHP   
-- 🗄️ MySQL    
+- 🗄️ MySQL
+- 🐳 Docker      
 - 🔧 Git & GitHub  
 
 ---
